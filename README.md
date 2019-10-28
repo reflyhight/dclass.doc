@@ -7,8 +7,8 @@
         <br>
        <a href="http://dclass.tech" style="font-size: 50px;"><strong>--  在线官网 --</strong></a> 
         <br>
-       
     </p>    
+    </p>
 
 # 介绍
 >Dclass是一套 Scratch 在线作品创作，管理系统。实现了scratch在线创作，保存，分享手机试玩，学生添加，发送素材给学习，复制作品等常用功能。
