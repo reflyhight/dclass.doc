@@ -2,11 +2,12 @@
     <img src="http://image.dclass.tech/dclass.png" width="150">
     <h3 align="center">Dclass</h3>
     <a href="http://dclass.tech" style="font-size: 50px;">-- 在线官网 -- </a>
-    <p align="center">
+  
+</p>
+<p align="center">
         Dclass是一套 Scratch 在线作品创作，管理系统。实现了scratch在线创作，保存，分享手机试玩，学生添加，发送素材给学习，复制作品等常用功能。
         
     </p>
-</p>
 
 
 
