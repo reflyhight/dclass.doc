@@ -1,21 +1,19 @@
 <p align="center">
-        <img src="http://image.dclass.tech/dclass.png" width="150">
-        <h3 align="center">Dclass</h3>
-        <p align="center">
-                Dclass是一套 Scratch 在线作品创作，管理系统。实现了scratch在线创作，保存，分享手机试玩，学生添加，发送素材给学习，复制作品等常用功能。
-            <br>
-            <a href="http://dclass.tech"><strong>-- 在线官网 --</strong></a>
-            <br>
-           
-        </p>    
+    <img src="http://image.dclass.tech/dclass.png" width="150">
+    <h3 align="center">Dclass</h3>
+    <p align="center">
+        Dclass是一套 Scratch 在线作品创作，管理系统。实现了scratch在线创作，保存，分享手机试玩，学生添加，发送素材给学习，复制作品等常用功能。
+        <br>
+        <a href="http://dclass.tech"><strong>-- 在线官网 --</strong></a>
+        <br>
     </p>
-
-# 介绍
->Dclass是一套 Scratch 在线作品创作，管理系统。实现了scratch在线创作，保存，分享手机试玩，学生添加，发送素材给学习，复制作品等常用功能。
+</p>
 
 
 
-# 当前版本
+
+
+## 当前版本
 - 1.3版本，版本更新日期：2019/10/01
 
 
